@@ -1,0 +1,16 @@
+body{
+ background: linear-gradient(to right,rgb(30, 170, 208), rgb(179, 42, 247), rgb(228, 228, 98));
+}
+#score{
+   font-size: 25px;
+   float: left;
+   margin-left: 20px;
+}
+#timer{
+   font-size: 25px;
+   float: right;
+   margin-right: 65px;
+}
+#drawn{
+   color: white;
+}
